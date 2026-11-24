@@ -29,7 +29,7 @@ aws sts get-caller-identity --query Account --output text
 ```
 
 Example: `123456789012` - replace every `123456789012` in this lab with yours.
-
+## maruthi account ID: xxx342166588
 Get your GitHub repo path:
 
 `YOUR_GITHUB_USER/aws-oidc-cicd-pipeline`
